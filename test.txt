@@ -5,3 +5,4 @@ npx jest --testNamePattern "test toEquals";
 npx jest --testNamePattern "trhuthiness"
 npx jest --testNamePattern "numbers"
 npx jest --testNamePattern "string"
+npx jest --testNamePattern "array simple"

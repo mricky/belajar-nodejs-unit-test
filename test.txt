@@ -3,3 +3,4 @@ npx jest (for all test folder);
 npx jest --runTestsByPath test/sum.test.js (test function in file)
 npx jest --testNamePattern "test toEquals";
 npx jest --testNamePattern "trhuthiness"
+npx jest --testNamePattern "numbers"

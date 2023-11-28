@@ -10,4 +10,6 @@ npx jest --testNamePattern "exception"
 npx jest --testNamePattern "string.not"
 npx jest --testNamePattern "test async function"
 npx jest --testNamePattern "test async matchers"
-npx jest --testNamePattern "first test"
+npx jest --runTestsByPath test/setup.test.js
+npx jest --runTestsByPath test/scoping.test.js
+npx jest --runTestsByPath test/it.test.js

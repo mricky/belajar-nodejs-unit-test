@@ -13,3 +13,4 @@ npx jest --testNamePattern "test async matchers"
 npx jest --runTestsByPath test/setup.test.js
 npx jest --runTestsByPath test/scoping.test.js
 npx jest --runTestsByPath test/it.test.js
+npx jest --runTestsByPath test/skip.test.js

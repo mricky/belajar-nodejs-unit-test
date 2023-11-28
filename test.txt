@@ -18,3 +18,4 @@ npx jest --runTestsByPath test/only.test.js
 npx jest --runTestsByPath test/each.test.js
 npx jest --runTestsByPath test/each-object.test.js
 npx jest --runTestsByPath test/concurrent.test.js
+npx jest --runTestsByPath test/todo.test.js

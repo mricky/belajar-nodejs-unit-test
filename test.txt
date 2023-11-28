@@ -14,3 +14,5 @@ npx jest --runTestsByPath test/setup.test.js
 npx jest --runTestsByPath test/scoping.test.js
 npx jest --runTestsByPath test/it.test.js
 npx jest --runTestsByPath test/skip.test.js
+npx jest --runTestsByPath test/only.test.js
+\npx jest --runTestsByPath test/each.test.js
